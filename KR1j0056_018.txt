@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 玉篇
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:54.856304
+#+PROPERTY: ID KR1j0056
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 18
+#+PROPERTY: FILE SB01n0023-018玉篇-卷第十八.
 <pb:KR1j0056_SBCK_018-1a>¶
 大廣益㑹玉篇卷第十八(凡二十/六部)¶
 ︻金部二百六十九(四百七/十二字)金(居音切&KR0003;文五色金也黄爲長乆薶不生/衣百鍊不䡖從革不違西方之行生於土/古/文)¶
@@ -224,4 +228,3 @@
 　　　　&KR0011;隔更音和切¶
 (恥臘切今/他臈切)罩䍜(並都教切/今中教切/房之切今/頻之切)¶
 大廣益㑹玉篇卷第十八¶
-

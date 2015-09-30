@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 玉篇
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:54.575586
+#+PROPERTY: ID KR1j0056
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB01n0023-012玉篇-卷第十二.
 <pb:KR1j0056_SBCK_012-1a>¶
 大廣益㑹玉篇卷第十二(凡五部)¶
 ︻木部一百五十七(八百二/十二字)木(莫穀切位居東方甲乙也燧人氏鑚出火也&KR0003;/文冒也冒地而生東方之行从&KR0708;下象其根)¶
@@ -180,4 +184,3 @@
 桑(思&KR0048;切&KR0094;所/食葉俗作桒/丑利切/&KR0094;)䡦(力見切/䉛&KR0094;)¶
 大廣益㑹玉篇卷第十二¶
 <pb:KR1j0056_SBCK_012-7b>¶
-

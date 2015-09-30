@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 玉篇
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:54.223123
+#+PROPERTY: ID KR1j0056
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB01n0023-007玉篇-卷第七.
 <pb:KR1j0056_SBCK_007-1a>¶
 大廣益㑹玉篇卷第七(凡十一部)¶
 ︻足部七十六(二百九/十一字)足(子欲切&KR0003;文人之足/也在體下从止口)蹏(徒奚切/足蹏也)蹄(同上)¶
@@ -147,4 +151,3 @@
 勞(力刀切劇也/又力到切/古文)㘞(户卧切/牽船声)効(胡孝切/俗效字)¶
 ︻劦部八十四(凡三字)劦(胡頰切同力也山海經惟/號之山風風若劦急也)¶
 <pb:KR1j0056_SBCK_007-10a>¶
-

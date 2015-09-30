@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 玉篇
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:54.435100
+#+PROPERTY: ID KR1j0056
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0023-010玉篇-卷第十.
 <pb:KR1j0056_SBCK_010-1a>¶
 大廣益㑹玉篇卷第十(凡十九部)¶
 ︻彳部一百十九(一百/十字)彳(丑亦切/小歩也)徑(古定切/小路也/女九切復也習也休/也正也或與狃同)¶
@@ -124,4 +128,3 @@
 　　　&KR0011;隔更音和切¶
 　嘆(敕旦切今/他旦切)啄(丁角切今/中角切)膘(扶小孚小二切今/頻小疋小二切)¶
 大廣益㑹玉篇卷第十¶
-

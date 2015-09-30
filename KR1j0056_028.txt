@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 玉篇
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:55.273666
+#+PROPERTY: ID KR1j0056
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 28
+#+PROPERTY: FILE SB01n0023-028玉篇-卷第二十八.
 <pb:KR1j0056_SBCK_028-1a>¶
 大廣益㑹玉篇卷第二十八(凡一十二部)¶
 ︻巾部四百三十二(一百七/十二字)巾(凡銀切佩巾也本以/拭物後人著之於頭/且勇職茸/二切裩也/同/上)¶
@@ -116,4 +120,3 @@
 匑(丘六丘弓二切/匑/謹敬皃/巨弓切/匑/伊誘切/古文/音州又/音&KR0172;/居先切又音瓊/孤獨也敬拜也)㝁(同/上)¶
 <pb:KR1j0056_SBCK_028-5a>¶
 <pb:KR1j0056_SBCK_028-6a>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 玉篇
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:54.151761
+#+PROPERTY: ID KR1j0056
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB01n0023-006玉篇-卷第六.
 <pb:KR1j0056_SBCK_006-1a>¶
 大廣益㑹玉篇卷第六(凡十部)¶
 ︻手部六十六(六百四/十五字)手(舒酉切&KR0003;文/拳也手足也/古文/七咨切/挐也)¶
@@ -120,4 +124,3 @@
 <pb:KR1j0056_SBCK_006-7a>¶
 ¶
 大廣益㑹玉篇卷第六¶
-

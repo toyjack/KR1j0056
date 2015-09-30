@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 玉篇
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:53.928137
+#+PROPERTY: ID KR1j0056
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0023-003玉篇-卷第三.
 <pb:KR1j0056_SBCK_003-1a>¶
 大廣益㑹玉篇卷第三(凡一十三部)¶
 ︻人部二十三(五百二/十一字)人(而眞切書云惟人萬物之靈/孔曰天地所生惟人所貴)偂(則前切/又音剪)¶
@@ -225,4 +229,3 @@
 嫛(壹奚切人始/生曰嫛婗)婗(五弓切/上同)媺(音美礼/媺周室)婕(即葉切&KR0003;文云/婕妤婦官也)妤(以諸切/婕妤)¶
 孂(居矣居幼/二切竦身)¶
 大廣益㑹玉篇卷第三¶
-

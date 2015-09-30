@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 玉篇
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:54.941898
+#+PROPERTY: ID KR1j0056
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 20
+#+PROPERTY: FILE SB01n0023-020玉篇-卷第二十.
 <pb:KR1j0056_SBCK_020-1a>¶
 大廣益㑹玉篇卷第二十(凡二十/七部)¶
 ︻沝部二百八十六(凡四/字)沝(之水切/二水也)淼(彌沼切淼/溔大水也/力周切水行/也篆文作)¶
@@ -182,4 +186,3 @@
 <pb:KR1j0056_SBCK_020-7b>¶
 ¶
 大璞益㑹王篇卷第二十¶
-

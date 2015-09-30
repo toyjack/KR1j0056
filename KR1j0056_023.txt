@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 玉篇
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:55.070530
+#+PROPERTY: ID KR1j0056
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 23
+#+PROPERTY: FILE SB01n0023-023玉篇-卷第二十三.
 <pb:KR1j0056_SBCK_023-1a>¶
 大廣益㑹玉篇卷第二十三(凡二十/九部)¶
 ︻馬部三百五十七(二百七/十九字)馬(莫切切武/獸也怒也/籀文/古文)&KR2473;(布戞切/馬八歳)¶
@@ -215,4 +219,3 @@
 <pb:KR1j0056_SBCK_023-10b>¶
 ¶
 大廣益㑹玉篇卷之二十三¶
-

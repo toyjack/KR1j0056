@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 玉篇
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:54.986625
+#+PROPERTY: ID KR1j0056
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 21
+#+PROPERTY: FILE SB01n0023-021玉篇-卷第二十一.
 <pb:KR1j0056_SBCK_021-1a>¶
 大廣益㑹玉篇卷第二十一(凡三十部)¶
 ︻&KR0115;部三百十三(凡二字)&KR0115;(莫庭莫定二切窈也夜/也郭璞曰幼稚者&KR0256;昧)鼆(亡映切杜預曰魯邑/又冥也又亡庚切)¶
@@ -133,4 +137,3 @@
 <pb:KR1j0056_SBCK_021-6b>¶
 㲳(知栗大結/二切觸也/乎孝切声/&KR0011;云誤也)¶
 大廣益㑹玉篇卷第二十一(終)¶
-

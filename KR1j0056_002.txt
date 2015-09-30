@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 玉篇
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:53.887074
+#+PROPERTY: ID KR1j0056
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0023-002玉篇-卷第二.
 <pb:KR1j0056_SBCK_002-1a>¶
 大廣益㑹玉篇卷第二(凡一十四部)¶
 ︻土部第九(三百五/十六字)土(他户逹戸二切&KR0003;/文地之吐生物也)堣(遇俱切堣夷地名/自所出書作嵎)¶
@@ -161,4 +165,3 @@
 <pb:KR1j0056_SBCK_002-8b>¶
 ¶
 大廣益㑹玉篇卷第二¶
-

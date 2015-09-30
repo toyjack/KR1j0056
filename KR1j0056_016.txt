@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 玉篇
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:54.782303
+#+PROPERTY: ID KR1j0056
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 16
+#+PROPERTY: FILE SB01n0023-016玉篇-卷第十六.
 <pb:KR1j0056_SBCK_016-1a>¶
 大廣益㑹玉篇卷第十六(凡二十/四部)¶
 ︻琴部二百三十一(凡八/字)琴(巨林切&KR0003;文及新論云神農造也琴之/言禁也君子守以自禁也風俗通曰琴)¶
@@ -89,4 +93,3 @@
 <pb:KR1j0056_SBCK_016-4a>¶
 <pb:KR1j0056_SBCK_016-5a>¶
 大廣益㑹玉篇卷之十六¶
-

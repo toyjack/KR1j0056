@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 玉篇
-#+DATE: 2015-09-23 09:41:14
+#+DATE: 2015-09-10 23:06:55.117161
+#+PROPERTY: ID KR1j0056
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 24
+#+PROPERTY: FILE SB01n0023-024玉篇-卷第二十四.
 <pb:KR1j0056_SBCK_024-1a>¶
 大廣益㑹玉篇卷第二十四(凡一十三部)¶
 ︻烏部三百八十六(凡四/字)烏(於乎切孝/鳥又語声/古文)舄(七雀切鵲也又思/亦切今爲履鳥字)¶
@@ -154,4 +158,3 @@
 ︻&KR2447;部三百九十八(凡二/字)&KR2447;(語居切&KR0003;/文二魚也/言居切捕魚/也与漁&KR0516;同)¶
 <pb:KR1j0056_SBCK_024-6b>¶
 大廣益㑹玉篇卷之二十四¶
-
